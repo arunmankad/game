@@ -1,0 +1,5 @@
+{
+  "name": "React Wordle Clone",
+  "description": "A Wordle-like word guessing game built with React, TypeScript, and Tailwind CSS. Players have six attempts to guess a five-letter word, with feedback provided for each guess in the form of colored tiles indicating when letters are in the correct position, present in the word but in the wrong position, or not in the word at all.",
+  "requestFramePermissions": []
+}
